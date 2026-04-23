@@ -60,6 +60,9 @@ The Obstacle Avoidance Robot is an autonomous system designed to detect and avoi
 - Use camera-based obstacle detection  
 
 ---
+screenshot
+
+<img width="897" height="762" alt="Screenshot 2026-03-15 231707" src="https://github.com/user-attachments/assets/d9560772-071d-4b25-9818-e642967bd4b0" />
 
 ## 🌟 Conclusion
 This project provides hands-on experience in robotics and embedded systems by implementing an autonomous obstacle avoidance mechanism. It strengthens understanding of sensor integration, real-time processing, and control systems used in modern automation.
